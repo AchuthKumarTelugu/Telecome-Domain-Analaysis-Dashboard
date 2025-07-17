@@ -96,6 +96,7 @@ This Power BI dashboard project explores AtliQo's key performance metrics **befo
 Aspiring Data Analyst | Passionate about transforming data into strategy  
 📧 [Your Email]  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/achuthkumar-telugu/) 
+🔗 [Github Profile](https://github.com/AchuthKumarTelugu/Telecome-Domain-Analaysis-Dashboard) 
 
 
 ---
