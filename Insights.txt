@@ -1,0 +1,6 @@
+insights:
+kpi:After 5G,we saw drastic drop in total revenues,but saw 11.05% increase in arpu while being on dropping -8.28% in monthly active users,which indicates,most customers are leaving because of increased plan price after 5g,only ones there are paying high price for plans making them premium customers
+
+tables :
+Among cities with highest revenue contributers Chennai and delhi loosing negative trend in revenue change.Mumbai,Delhi,Banglore are losing heavy customers,this indicates we are loosing more customers in heavy performing cities
+we saw positve change of 21.08% in total plan revenue after 5g,which is contributed by increasing plan prices
